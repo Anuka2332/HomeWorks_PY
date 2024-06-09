@@ -10,6 +10,7 @@ class Transport():     #1. ტრანსპორტის კლასი მ
         self.km = km
 
 
+
     @staticmethod        # 2. 1 სტატიკური მეთოდი
     def mooving():
         print("direction to...")
