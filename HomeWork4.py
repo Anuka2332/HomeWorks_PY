@@ -53,3 +53,6 @@ print(Transport5)
 
 Transport1.my_car()
 Transport2.Year_car()
+
+Transport.mooving()
+
